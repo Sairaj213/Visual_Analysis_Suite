@@ -39,7 +39,7 @@
 </div>
 
 ```markdown-tree
-📁 visual_analysis_suite/
+📁 Visual_Analysis_Suite/
 ├── app.py                         # Application entry point (runs the Streamlit app)
 ├── config.py                      # Central configuration for models and page settings
 ├── requirements.txt               
